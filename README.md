@@ -45,3 +45,13 @@ Downstream impact: ZKBoo → ZKB++ → **Picnic** (NIST PQC Round 3 finalist);
 Ligero++ (R1CS support); Aurora (O(log²s) via FRI); STARKs.
 
 ## Contents
+report/ 18-page technical report (definitions, protocols, proofs, open problems)
+slides/ 16-slide seminar presentation
+
+
+## Open problems discussed
+
+- Constant-rate ZK with O(1) rounds under OWFs
+- Ω(s) lower bound for statistical ZK proofs
+- Sublinear-prover transparent ZK (o(s) prover time)
+- VOLE-in-the-head and public verifiability
