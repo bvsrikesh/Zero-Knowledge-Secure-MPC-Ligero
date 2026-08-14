@@ -45,8 +45,9 @@ Downstream impact: ZKBoo → ZKB++ → **Picnic** (NIST PQC Round 3 finalist);
 Ligero++ (R1CS support); Aurora (O(log²s) via FRI); STARKs.
 
 ## Contents
-report/ 18-page technical report (definitions, protocols, proofs, open problems)
-slides/ 16-slide seminar presentation
+
+- `report/` — 18-page technical report (definitions, protocols, proofs, open problems)
+- `slides/` — 16-slide seminar presentation
 
 
 ## Open problems discussed
